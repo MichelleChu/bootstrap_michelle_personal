@@ -1,0 +1,13 @@
+.hero{
+	background:url('../img/olympiclake.jpg'); 
+	background-size:cover;
+	height: 800px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color:#FAFAFA;
+}
+.navbar-nav{
+  display: inline-block;
+  text-align: center;
+  float:none;
+}
